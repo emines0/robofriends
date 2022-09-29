@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/emines0/robofriends.git/static/css/main.073c9b0a.css",
-    "main.js": "/emines0/robofriends.git/static/js/main.954bd299.js",
-    "static/js/787.32032a02.chunk.js": "/emines0/robofriends.git/static/js/787.32032a02.chunk.js",
-    "static/media/logo.svg": "/emines0/robofriends.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/emines0/robofriends.git/index.html",
-    "main.073c9b0a.css.map": "/emines0/robofriends.git/static/css/main.073c9b0a.css.map",
-    "main.954bd299.js.map": "/emines0/robofriends.git/static/js/main.954bd299.js.map",
-    "787.32032a02.chunk.js.map": "/emines0/robofriends.git/static/js/787.32032a02.chunk.js.map"
+    "main.css": "/robofriends/static/css/main.073c9b0a.css",
+    "main.js": "/robofriends/static/js/main.a013dd07.js",
+    "static/js/787.32032a02.chunk.js": "/robofriends/static/js/787.32032a02.chunk.js",
+    "static/media/logo.svg": "/robofriends/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/robofriends/index.html",
+    "main.073c9b0a.css.map": "/robofriends/static/css/main.073c9b0a.css.map",
+    "main.a013dd07.js.map": "/robofriends/static/js/main.a013dd07.js.map",
+    "787.32032a02.chunk.js.map": "/robofriends/static/js/787.32032a02.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.954bd299.js"
+    "static/js/main.a013dd07.js"
   ]
 }
