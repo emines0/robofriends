@@ -34,7 +34,6 @@ class  App extends Component {
                       return response.json();
                     }),
                   );                
-                  console.log("users", users);
                   return users
                 } catch (err) {
                   console.log("ooooooops", err);
